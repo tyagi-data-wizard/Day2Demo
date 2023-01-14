@@ -1,0 +1,12 @@
+com\camunda\demo\Day2Demo\delegateClassParallel.class
+com\camunda\demo\Day2Demo\ProcessConstants.class
+com\camunda\demo\Day2Demo\work.class
+com\camunda\demo\Day2Demo\delegateClassSetVar.class
+com\camunda\demo\Day2Demo\CamundaBpmProcessApplication.class
+utilityDemo\fileGen.class
+com\camunda\demo\Day2Demo\delegateClass.class
+com\camunda\demo\Day2Demo\workerClass.class
+utilityDemo\fileGenP.class
+utilityDemo\printMsg.class
+com\camunda\demo\Day2Demo\LoggerDelegate.class
+utilityDemo\fetchVar.class
